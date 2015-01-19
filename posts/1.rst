@@ -1,25 +1,13 @@
-.. title: Welcome to Nikola
-.. slug: welcome-to-nikola
+.. title: Django
+.. slug: django-unicorn-image
 .. date: 2012-03-30 23:00:00 UTC-03:00
-.. tags: nikola, python, demo, blog
-.. author: Roberto Alsina
-.. link: http://getnikola.com
+.. tags: nikola, python, demo, site
+.. author: Diego Puente
+.. link: diegoduncan21.github.com
 .. description:
 .. category: nikola
 
-.. figure:: http://farm1.staticflickr.com/138/352972944_4f9d568680.jpg
-   :target: http://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1
+.. figure:: http://stv-static.s3.amazonaws.com/django-unchained/01/display/1024x768.png
+   :target: http://stv-static.s3.amazonaws.com/django-unchained/01/display/1024x768.png
    :class: thumbnail
-   :alt: Nikola Tesla Corner by nicwest, on Flickr
-
-If you can see this in a web browser, it means you have managed to install Nikola,
-and build a site using it. Felicidades master!
-
-* You can read the manual `here </stories/handbook.html>`__
-* You can learn more about Nikola at http://getnikola.com
-* You can see a demo photo gallery `here </galleries/demo/index.html>`__
-* Demo usage of listings `here </stories/listings-demo.html>`__
-* Demo of slideshows `here </stories/slides-demo.html>`__
-* Demo of Bootstrap `here </stories/bootstrap-demo.html>`__
-
-Send feedback to ralsina@netmanagers.com.ar!
+   :alt: Django
